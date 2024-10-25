@@ -35,30 +35,27 @@ npm run dev
 ### 2. 🔍 Filtro de Pokémon
    Filtra los Pokémon según su tipo, mostrando solo aquellos que coincidan con el filtro seleccionado.
 
-   <img src="ruta_de_la_imagen_del_filtro_pokemon.png" alt="Filtro de Pokémon" width="600"/>
-
    🎥 Demo Video del Filtro de Pokémon:
 
 ---
+   <img src="./public/video-pokemon.gif" alt="Filtro de Pokémon" width="600"/>
 
+   
 ### 3. 🛒 Carrito de Compras
    Esta sección permite:
    - **Agregar** productos al carrito.
    - **Multiplicar automáticamente** la cantidad y el precio.
    - **Mostrar el total** a pagar en tiempo real.
 
-   <img src="ruta_de_la_imagen_del_carrito.png" alt="Carrito de Compras" width="500"/>
+  
 
    🎥 Demo Video del Carrito de Compras:
+    <img src="./public/video-cart.gif" alt="Carrito de Compras" width="500"/>
 
 </div>
 
 ---
 
-## 📸 Ejemplos Visuales
-Puedes incluir capturas de pantalla y videos en las tres secciones. Aquí algunos ejemplos para que puedas personalizar:
-- Para agregar una imagen:  
-  ```markdown
-  ![Texto alternativo](ruta_de_la_imagen.png)
+
 
 
