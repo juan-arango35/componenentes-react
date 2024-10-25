@@ -1,6 +1,6 @@
-# 🌟 Proyecto Vite - App de Ejemplos Interactivos
+# 🌟 Proyecto Vite - React - Components
 
-Este proyecto desarrollado con [Vite](https://vitejs.dev/) incluye tres secciones principales: un contador interactivo, un filtro de Pokémon, y un carrito de compras funcional. Desarrollado por un equipo de tres integrantes, esta aplicación web te permite explorar distintas funcionalidades interactivas con un diseño limpio y fácil de usar.
+Este proyecto, desarrollado con Vite, incluye tres secciones principales: un contador interactivo, un filtro de Pokémon y un carrito de compras funcional. Desarrollado por un equipo de tres integrantes, agradezco inmensamente el trabajo realizado en equipo, lo cual fue una agradable experiencia trabajar con compañeros que aportan a tu aprendizaje. Esta aplicación web te permite explorar distintas funcionalidades interactivas con un diseño limpio y fácil de usar.
 
 ---
 
@@ -28,39 +28,36 @@ npm run dev
 
    <img src="./public/contador.png" alt="Vista del Contador" width="800"/>
 
-   🎥 Demo Video del Contador:
-   [Ver el video del contador](./public/video-contador.mp4)
-
-
+   🎥 Demo Video del Contador: <br/> 
 ---
+<img  src="./public/video-contador.gif" alt="video del contador" width="500"/>
 
 ### 2. 🔍 Filtro de Pokémon
    Filtra los Pokémon según su tipo, mostrando solo aquellos que coincidan con el filtro seleccionado.
 
-   <img src="ruta_de_la_imagen_del_filtro_pokemon.png" alt="Filtro de Pokémon" width="500"/>
-
    🎥 Demo Video del Filtro de Pokémon:
 
 ---
+   <img src="./public/video-pokemon.gif" alt="Filtro de Pokémon" width="600"/>
 
+   
 ### 3. 🛒 Carrito de Compras
    Esta sección permite:
    - **Agregar** productos al carrito.
    - **Multiplicar automáticamente** la cantidad y el precio.
    - **Mostrar el total** a pagar en tiempo real.
 
-   <img src="ruta_de_la_imagen_del_carrito.png" alt="Carrito de Compras" width="500"/>
+  
 
-   🎥 Demo Video del Carrito de Compras:
-
+  
 </div>
+ 🎥 Demo Video del Carrito de Compras:
+    <img src="./public/video-cart.gif" alt="Carrito de Compras" width="500"/>
+
 
 ---
+#DEMO:
+[Demo de la Aplicación](https://componente-react.netlify.app/)
 
-## 📸 Ejemplos Visuales
-Puedes incluir capturas de pantalla y videos en las tres secciones. Aquí algunos ejemplos para que puedas personalizar:
-- Para agregar una imagen:  
-  ```markdown
-  ![Texto alternativo](ruta_de_la_imagen.png)
 
 
