@@ -28,12 +28,9 @@ npm run dev
 
    <img src="./public/contador.png" alt="Vista del Contador" width="800"/>
 
-   🎥 Demo Video del Contador: <br/>
-   ![Ver el video del contador](./public/video-contador.gif)
-    <img  style={text-align:"center"} src="./public/video-contador.gif" alt="video del contador" width="500"/>
-
-
+   🎥 Demo Video del Contador: <br/> 
 ---
+<img  src="./public/video-contador.gif" alt="video del contador" width="500"/>
 
 ### 2. 🔍 Filtro de Pokémon
    Filtra los Pokémon según su tipo, mostrando solo aquellos que coincidan con el filtro seleccionado.
