@@ -35,7 +35,7 @@ npm run dev
 ### 2. 🔍 Filtro de Pokémon
    Filtra los Pokémon según su tipo, mostrando solo aquellos que coincidan con el filtro seleccionado.
 
-   <img src="ruta_de_la_imagen_del_filtro_pokemon.png" alt="Filtro de Pokémon" width="500"/>
+   <img src="ruta_de_la_imagen_del_filtro_pokemon.png" alt="Filtro de Pokémon" width="600"/>
 
    🎥 Demo Video del Filtro de Pokémon:
 
