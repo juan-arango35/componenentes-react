@@ -4,6 +4,7 @@ const Title = () => {
   return (
     <div style={{
       textAlign: "center",
+     
     }}>
       <h1 style={{
         fontWeight: 800,
