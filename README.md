@@ -30,7 +30,7 @@ npm run dev
 
    🎥 Demo Video del Contador: <br/>
    ![Ver el video del contador](./public/video-contador.gif)
-    <img src="./public/video-contador.gif" alt="video del contador" width="800"/>
+    <img  style={text-align:"center"} src="./public/video-contador.gif" alt="video del contador" width="500"/>
 
 
 ---
