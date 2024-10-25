@@ -24,7 +24,7 @@ npm run dev
    - **Generar valores aleatorios**.
    - **Reiniciar** el contador.
 
-   <img src="assets/contador.png" alt="Vista del Contador" width="500"/>
+   <img src="contador.png" alt="Vista del Contador" width="500"/>
 
    🎥 Demo Video del Contador:
 
