@@ -8,7 +8,7 @@ Este proyecto, desarrollado con Vite, incluye tres secciones principales: un con
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_proyecto.git
+   git@github.com:juan-arango35/componenentes-react.git
 
    cd nombre_del_proyecto
 npm install
