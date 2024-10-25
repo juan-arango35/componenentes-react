@@ -15,7 +15,7 @@ const PokemonsList = () => {
   useEffect(() => {
     //cargamos los datos del archivo json
     const fetchPokemons = async () => {
-      const response = await fetch("/src/data/pokemons.json");
+      const response = await fetch("../../../public/data/pokemons.json");
       const result = await response.json();
       setPokemons(result);
       setFilterPokemons(result);

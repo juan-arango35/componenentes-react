@@ -23,7 +23,7 @@ const ShoppingCart = () => {
   useEffect(() => {
     //cargamos los datos del archivo productos.json
     const fetchShopping = async () => {
-      const response = await fetch("/src/data/products.json");
+      const response = await fetch("../../../public/data/products.json");
       const result = await response.json();
 
       setProducts(result);
