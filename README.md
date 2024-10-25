@@ -49,10 +49,11 @@ npm run dev
 
   
 
-   🎥 Demo Video del Carrito de Compras:
+  
+</div>
+ 🎥 Demo Video del Carrito de Compras:
     <img src="./public/video-cart.gif" alt="Carrito de Compras" width="500"/>
 
-</div>
 
 ---
 
