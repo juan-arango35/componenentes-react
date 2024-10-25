@@ -57,7 +57,7 @@ npm run dev
 
 ---
 #DEMO:
-[Demo de la Aplicación]([https://componente-react.netlify.app/](https://componente-react.netlify.app/))
+[Demo de la Aplicación](https://componente-react.netlify.app/)
 
 
 
