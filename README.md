@@ -28,7 +28,7 @@ npm run dev
 
    <img src="./public/contador.png" alt="Vista del Contador" width="800"/>
 
-   🎥 Demo Video del Contador:
+   🎥 Demo Video del Contador: <br/>
    ![Ver el video del contador](./public/video-contador.gif)
 
 
