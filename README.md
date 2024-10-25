@@ -20,13 +20,17 @@ npm run dev
 ### 1. 🧮 Contador Interactivo
    El contador permite:
    - **Agregar** valores de 10 en 10.
-   - **Restar** valores.
+   - **Agregar** valores de 1 en 1.
+   - **Resta** valores de 10 en 10.
+   - **Resta** valores de 1 en 1.
    - **Generar valores aleatorios**.
    - **Reiniciar** el contador.
 
-   <img src="contador.png" alt="Vista del Contador" width="500"/>
+   <img src="./public/contador.png" alt="Vista del Contador" width="800"/>
 
    🎥 Demo Video del Contador:
+   [Ver el video del contador](./public/video-contador.mp4)
+
 
 ---
 
