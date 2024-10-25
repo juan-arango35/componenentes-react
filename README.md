@@ -1,6 +1,6 @@
-# 🌟 Proyecto Vite - App de Ejemplos Interactivos
+# 🌟 Proyecto Vite - React - Components
 
-Este proyecto desarrollado con [Vite](https://vitejs.dev/) incluye tres secciones principales: un contador interactivo, un filtro de Pokémon, y un carrito de compras funcional. Desarrollado por un equipo de tres integrantes, esta aplicación web te permite explorar distintas funcionalidades interactivas con un diseño limpio y fácil de usar.
+Este proyecto, desarrollado con Vite, incluye tres secciones principales: un contador interactivo, un filtro de Pokémon y un carrito de compras funcional. Desarrollado por un equipo de tres integrantes, agradezco inmensamente el trabajo realizado en equipo, lo cual fue una agradable experiencia trabajar con compañeros que aportan a tu aprendizaje. Esta aplicación web te permite explorar distintas funcionalidades interactivas con un diseño limpio y fácil de usar.
 
 ---
 
